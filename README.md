@@ -1,4 +1,4 @@
-# ccr-hack
+# Bino Chat
 
 <p align="center">
    <a href="https://github.com/TomazAlexandre/ccr-hack">
